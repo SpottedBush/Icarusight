@@ -1,0 +1,20 @@
+docker pull neo4j:5.12.0-community
+
+docker run -d -it\
+    --name icarusight \
+    -p7474:7474 -p7687:7687 \
+    -v /data2/dsc/icarusight_neo4j/data:/data \
+    -v /data2/dsc/icarusight_neo4j/logs:/logs \
+    -v /data2/dsc/icarusight_neo4j/import:/var/lib/neo4j/import \
+    -v /data2/dsc/icarusight_neo4j/plugins:/plugins \
+    -v /data2/dsc/icarusight_neo4j/conf:/conf \
+    --env NEO4J_AUTH=neo4j/zDje683kEKpo23 \
+    --env NEO4J_PLUGINS='["apoc", "graph-data-science"]' \
+    --env NEO4J_server_memory_pagecache_size='10g' \
+    --env NEO4J_server_memory_heap_initial__size='9g' \
+    --env NEO4J_server_memory_heap_max__size='9g' \
+    --env NEO4J_apoc_import_file_enabled=true \
+    --env NEO4J_server_config_strict__validation_enabled=false \
+    --env NEO4J_security_allow__csv__import__from__file__urls=true \
+    --env NEO4J_apoc_export_file_enabled=true \
+    neo4j:5.12.0-community

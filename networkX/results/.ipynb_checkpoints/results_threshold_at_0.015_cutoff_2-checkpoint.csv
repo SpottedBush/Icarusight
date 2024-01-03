@@ -1,0 +1,32 @@
+cluster_id,label,max_values,total_len,top_words_count_method,top_words_tfidf_method
+1,CANAPE - SOFA - DIVAN,2703,2704,cm | canapé | lit | siège | hauteur,
+68,CANAPE - SOFA - DIVAN,1033,1033,canapé | angle | cm | convertible | places,angle
+1357,CANAPE - SOFA - DIVAN,1807,1807,canapé | cm | convertible | places | express,express
+87,CANAPE - SOFA - DIVAN,1603,1604,banquette | cm | velours | pieds | tissu,banquette
+144,BANQUETTE,241,242,canapé | places | cm | cuir,
+162,CANAPE - SOFA - DIVAN,1833,1833,places | canapé | cm | ensemble | siège,ensemble | canapés | fauteuil
+184,ENSEMBLE CANAPES,341,343,cm | canapé | lit | hauteur | dimensions,clic | clac
+2264,MERIDIENNE,243,243,cm | siège | cuir | hauteur | canapé,synthétique | 73 | 94 | siège | cuir
+226,CLIC-CLAC - BANQUETTE CLIC-CLAC,624,631,cm | bz | banquette | matelas | couchage,bz | banquette | france
+715,CANAPE - SOFA - DIVAN,62,62,canapé | angle | convertible | tissu | places,angle
+1058,BZ - BANQUETTE BZ,70,70,méridienne | cm | pieds | kg | velours,méridienne | meridienne
+2377,CANAPE - SOFA - DIVAN,5,5,cm | hauteur | siège | canapé | lit,hauteur | clair | 69 | ab337299 | siège
+4303,MERIDIENNE,7,7,cm | poids | kg | total | meridienne,meridienne | 71872 | 829744 | 236x160x72 | poids
+14047,MERIDIENNE,29,29,cm | hauteur | siège | canapé | marron,microfibre | marron | 220 | doss | 69
+5138,CANAPE - SOFA - DIVAN,6,6,rotin | cm | canapé | coussin | couleur,rotin | véritable | naturel | véranda | canapés
+5407,ENSEMBLE CANAPES,4,4,cm | hauteur | lit | canapé | siège,rose | hauteur | 69 | épaisseur | siège
+5470,CANAPE - SOFA - DIVAN,37,37,cm | siège | hauteur | microfibre | lit,microfibre | marron | vinyle | polychlorure | 69
+5505,CANAPE - SOFA - DIVAN,9,9,canapé | angle | convertible | alma | cm,alma | 254 | 141 | 87 | 150
+7682,CANAPE - SOFA - DIVAN,5,5,poids | kg | volume | net | pieds,220x92x90 | 44775 | 8216 | poids | kg
+8078,CANAPE - SOFA - DIVAN,7,7,cm | poids | kg | meridienne | total,meridienne | 284x166x70 | 697552 | 30008 | poids
+8861,MERIDIENNE,4,4,cm | poids | kg | accoudoir | hauteur,meridienne | poids | kg | total | volume
+9998,MERIDIENNE,8,8,cm | hauteur | siège | microfibre | canapé,microfibre | crème | ako7394667535542 | polychlorure | vinyle
+11293,CANAPE - SOFA - DIVAN,4,4,cm | poids | kg | total | largeur,10256 | 252x220x74 | 550 | 738736 | meridienne
+11462,MERIDIENNE,4,4,cm | canapé | siège | hauteur | places,fixe | siège | assemblage | partir | sol
+11726,CANAPE - SOFA - DIVAN,5,5,cm | siège | rouge | canapé | tissu,rouge | bordeaux | 117167 | a348967 | estink
+12407,CANAPE - SOFA - DIVAN,4,4,cm | poids | kg | net | meridienne,meridienne | poids | kg | total | volume
+18784,CANAPE - SOFA - DIVAN,4,4,tissu | sovite | 278x220x74 | gauche | angle,278x220x74 | sovite | structurel | 100000 | constitué
+27442,CANAPE - SOFA - DIVAN,4,4,livraison | canapé | revêtement | continu | reins,soulagent | continu | imposante | 270x125 | merveilleusement
+34442,CANAPE - SOFA - DIVAN,5,5,cm | dimensions | siège | matériau | tissu,liy3080546 | 262 | dimensions | 35 | pied
+34541,ENSEMBLE CANAPES,4,4,cm | dimensions | 70 | siège | noir,70 | 73 | siege | pcs | coussin
+41945,CANAPE - SOFA - DIVAN,4,4,canapé | creep | convertible | gris | places,creep | lità | créatio | renommée | retrouve

@@ -1,0 +1,21 @@
+cluster_id,label,max_values,total_len,top_words_count_method,top_words_tfidf_method
+13,CANAPE - SOFA - DIVAN,1497,1497,canapé,
+79,CANAPE - SOFA - DIVAN,1087,1087,canapé | angle,
+92,CANAPE - SOFA - DIVAN,569,569,canapé,
+174,CANAPE - SOFA - DIVAN,342,342,canapé | places | relax,
+194,ENSEMBLE CANAPES,156,157,places | canapé,
+208,CANAPE - SOFA - DIVAN,10,10,canapé | club | places,club
+242,CLIC-CLAC - BANQUETTE CLIC-CLAC,359,361,cm | canapé,
+8508,CANAPE - SOFA - DIVAN,439,439,canapé,
+342,CANAPE - SOFA - DIVAN,749,749,,
+914,MERIDIENNE,117,117,banquette,
+3692,BANQUETTE,118,119,canapé | coussins | housse,noelia | housse
+4861,CANAPE - SOFA - DIVAN,4,4,bz | cm,bz
+5439,BZ - BANQUETTE BZ,45,45,canapé,
+11104,CANAPE - SOFA - DIVAN,6,6,rotin | canapé | coussins,rotin
+12366,CANAPE - SOFA - DIVAN,6,6,lit | pendant | espace | canapé,pendant | lit | espace | offrant | journée
+21257,MERIDIENNE,6,6,cm | poids | kg,meridienne | poids
+22905,CANAPE - SOFA - DIVAN,4,4,cm | 220 | épaisseur | 15 | 69,220 | 84 | 69 | 15 | lexlife
+33517,CANAPE - SOFA - DIVAN,4,4,canapé | forme,forme
+36301,CANAPE - SOFA - DIVAN,4,4,ranna | touche | confort | blanc | cuir,ranna | jouez
+51152,CANAPE - SOFA - DIVAN,4,4,style | convertible | coffre | angle | places,rouille
